@@ -1,7 +1,7 @@
 # MoviesAPI
 A backend Express.js API for movies research and display 
 
-#####################################################################################################################
+#########################################################
 
 You have to follow the steps below:
 
